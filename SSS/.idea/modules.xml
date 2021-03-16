@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/ReelFramework/.idea/ReelFramework.iml" filepath="$USER_HOME$/Downloads/ReelFramework/.idea/ReelFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSS.iml" filepath="$PROJECT_DIR$/.idea/SSS.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/yatra/.idea/yatra.iml" filepath="$USER_HOME$/Downloads/yatra/.idea/yatra.iml" />
+    </modules>
+  </component>
+</project>
